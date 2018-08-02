@@ -1,0 +1,81 @@
+GEO.id,GEO.id2,GEO.display-label,GC.target-geo-id,GC.target-geo-id2,GC.display-label,GC.display-label,resbase42010,respop72017,numdiff20102017,percdiff20102017,rank42010,rank72017,numrank20102017,percrank20102017
+Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geography,Geography,"Population Estimate - April 1, 2010 Estimates Base","Population Estimate - July 1, 2017","Change, 2010 to 2017 - Number","Change, 2010 to 2017 - Percent [1]","Rankings - Population Estimate - April 1, 2010 Estimates Base","Rankings - Population Estimate - July 1, 2017","Rankings - Change, 2010 to 2017 - Number","Rankings - Change, 2010 to 2017 - Percent"
+0400000US72,72,Puerto Rico,0400000US72,72,Puerto Rico,Puerto Rico,3726157,3337177,-388980,-10.4,(X),(X),(X),(X)
+0400000US72,72,Puerto Rico,0500000US72001,72001,Puerto Rico - Adjuntas Municipio,Adjuntas Municipio,19483,17971,-1512,-7.8,65,64,19,25
+0400000US72,72,Puerto Rico,0500000US72003,72003,Puerto Rico - Aguada Municipio,Aguada Municipio,41959,38118,-3841,-9.2,26,28,52,35
+0400000US72,72,Puerto Rico,0500000US72005,72005,Puerto Rico - Aguadilla Municipio,Aguadilla Municipio,60949,53164,-7785,-12.8,12,12,68,61
+0400000US72,72,Puerto Rico,0500000US72007,72007,Puerto Rico - Aguas Buenas Municipio,Aguas Buenas Municipio,28659,25850,-2809,-9.8,49,49,38,43
+0400000US72,72,Puerto Rico,0500000US72009,72009,Puerto Rico - Aibonito Municipio,Aibonito Municipio,25900,23108,-2792,-10.8,54,54,37,47
+0400000US72,72,Puerto Rico,0500000US72011,72011,Puerto Rico - Añasco Municipio,Añasco Municipio,29261,27059,-2202,-7.5,48,46,32,23
+0400000US72,72,Puerto Rico,0500000US72013,72013,Puerto Rico - Arecibo Municipio,Arecibo Municipio,96440,86066,-10374,-10.8,7,7,70,46
+0400000US72,72,Puerto Rico,0500000US72015,72015,Puerto Rico - Arroyo Municipio,Arroyo Municipio,19575,17881,-1694,-8.7,64,65,21,31
+0400000US72,72,Puerto Rico,0500000US72017,72017,Puerto Rico - Barceloneta Municipio,Barceloneta Municipio,24816,24240,-576,-2.3,57,52,4,4
+0400000US72,72,Puerto Rico,0500000US72019,72019,Puerto Rico - Barranquitas Municipio,Barranquitas Municipio,30318,28511,-1807,-6.0,46,43,23,14
+0400000US72,72,Puerto Rico,0500000US72021,72021,Puerto Rico - Bayamón Municipio,Bayamón Municipio,208105,179565,-28540,-13.7,2,2,77,66
+0400000US72,72,Puerto Rico,0500000US72023,72023,Puerto Rico - Cabo Rojo Municipio,Cabo Rojo Municipio,50917,48824,-2093,-4.1,16,16,28,11
+0400000US72,72,Puerto Rico,0500000US72025,72025,Puerto Rico - Caguas Municipio,Caguas Municipio,142917,129604,-13313,-9.3,5,5,73,38
+0400000US72,72,Puerto Rico,0500000US72027,72027,Puerto Rico - Camuy Municipio,Camuy Municipio,35159,31732,-3427,-9.7,40,38,43,42
+0400000US72,72,Puerto Rico,0500000US72029,72029,Puerto Rico - Canóvanas Municipio,Canóvanas Municipio,47639,45823,-1816,-3.8,19,19,24,10
+0400000US72,72,Puerto Rico,0500000US72031,72031,Puerto Rico - Carolina Municipio,Carolina Municipio,176769,154489,-22280,-12.6,3,3,75,60
+0400000US72,72,Puerto Rico,0500000US72033,72033,Puerto Rico - Cataño Municipio,Cataño Municipio,28140,24374,-3766,-13.4,50,51,49,64
+0400000US72,72,Puerto Rico,0500000US72035,72035,Puerto Rico - Cayey Municipio,Cayey Municipio,48119,44027,-4092,-8.5,18,20,55,29
+0400000US72,72,Puerto Rico,0500000US72037,72037,Puerto Rico - Ceiba Municipio,Ceiba Municipio,13631,11602,-2029,-14.9,72,73,27,70
+0400000US72,72,Puerto Rico,0500000US72039,72039,Puerto Rico - Ciales Municipio,Ciales Municipio,18782,16627,-2155,-11.5,68,67,30,54
+0400000US72,72,Puerto Rico,0500000US72041,72041,Puerto Rico - Cidra Municipio,Cidra Municipio,43480,39813,-3667,-8.4,24,24,47,28
+0400000US72,72,Puerto Rico,0500000US72043,72043,Puerto Rico - Coamo Municipio,Coamo Municipio,40512,39071,-1441,-3.6,30,27,17,9
+0400000US72,72,Puerto Rico,0500000US72045,72045,Puerto Rico - Comerío Municipio,Comerío Municipio,20778,19343,-1435,-6.9,62,61,15,19
+0400000US72,72,Puerto Rico,0500000US72047,72047,Puerto Rico - Corozal Municipio,Corozal Municipio,37142,33694,-3448,-9.3,37,36,44,37
+0400000US72,72,Puerto Rico,0500000US72049,72049,Puerto Rico - Culebra Municipio,Culebra Municipio,1818,1769,-49,-2.7,78,78,2,6
+0400000US72,72,Puerto Rico,0500000US72051,72051,Puerto Rico - Dorado Municipio,Dorado Municipio,38165,37026,-1139,-3.0,35,33,11,8
+0400000US72,72,Puerto Rico,0500000US72053,72053,Puerto Rico - Fajardo Municipio,Fajardo Municipio,36993,31324,-5669,-15.3,38,40,64,75
+0400000US72,72,Puerto Rico,0500000US72054,72054,Puerto Rico - Florida Municipio,Florida Municipio,12680,11775,-905,-7.1,73,72,8,22
+0400000US72,72,Puerto Rico,0500000US72055,72055,Puerto Rico - Guánica Municipio,Guánica Municipio,19427,16363,-3064,-15.8,66,68,42,76
+0400000US72,72,Puerto Rico,0500000US72057,72057,Puerto Rico - Guayama Municipio,Guayama Municipio,45362,41281,-4081,-9.0,22,22,54,34
+0400000US72,72,Puerto Rico,0500000US72059,72059,Puerto Rico - Guayanilla Municipio,Guayanilla Municipio,21581,18611,-2970,-13.8,61,62,41,68
+0400000US72,72,Puerto Rico,0500000US72061,72061,Puerto Rico - Guaynabo Municipio,Guaynabo Municipio,97921,87328,-10593,-10.8,6,6,71,48
+0400000US72,72,Puerto Rico,0500000US72063,72063,Puerto Rico - Gurabo Municipio,Gurabo Municipio,45371,47109,1738,3.8,21,17,1,1
+0400000US72,72,Puerto Rico,0500000US72065,72065,Puerto Rico - Hatillo Municipio,Hatillo Municipio,41953,40111,-1842,-4.4,27,23,25,12
+0400000US72,72,Puerto Rico,0500000US72067,72067,Puerto Rico - Hormigueros Municipio,Hormigueros Municipio,17250,16032,-1218,-7.1,69,69,13,21
+0400000US72,72,Puerto Rico,0500000US72069,72069,Puerto Rico - Humacao Municipio,Humacao Municipio,58466,52771,-5695,-9.7,14,13,65,41
+0400000US72,72,Puerto Rico,0500000US72071,72071,Puerto Rico - Isabela Municipio,Isabela Municipio,45655,41949,-3706,-8.1,20,21,48,26
+0400000US72,72,Puerto Rico,0500000US72073,72073,Puerto Rico - Jayuya Municipio,Jayuya Municipio,16642,14625,-2017,-12.1,70,70,26,59
+0400000US72,72,Puerto Rico,0500000US72075,72075,Puerto Rico - Juana Díaz Municipio,Juana Díaz Municipio,50747,46400,-4347,-8.6,17,18,59,30
+0400000US72,72,Puerto Rico,0500000US72077,72077,Puerto Rico - Juncos Municipio,Juncos Municipio,40290,39101,-1189,-3.0,31,26,12,7
+0400000US72,72,Puerto Rico,0500000US72079,72079,Puerto Rico - Lajas Municipio,Lajas Municipio,25753,22929,-2824,-11.0,55,55,39,50
+0400000US72,72,Puerto Rico,0500000US72081,72081,Puerto Rico - Lares Municipio,Lares Municipio,30753,25772,-4981,-16.2,44,50,61,78
+0400000US72,72,Puerto Rico,0500000US72083,72083,Puerto Rico - Las Marías Municipio,Las Marías Municipio,9881,8402,-1479,-15.0,75,76,18,71
+0400000US72,72,Puerto Rico,0500000US72085,72085,Puerto Rico - Las Piedras Municipio,Las Piedras Municipio,38675,37659,-1016,-2.6,34,29,9,5
+0400000US72,72,Puerto Rico,0500000US72087,72087,Puerto Rico - Loíza Municipio,Loíza Municipio,30060,25926,-4134,-13.8,47,48,56,67
+0400000US72,72,Puerto Rico,0500000US72089,72089,Puerto Rico - Luquillo Municipio,Luquillo Municipio,20068,18311,-1757,-8.8,63,63,22,32
+0400000US72,72,Puerto Rico,0500000US72091,72091,Puerto Rico - Manatí Municipio,Manatí Municipio,44113,39103,-5010,-11.4,23,25,62,52
+0400000US72,72,Puerto Rico,0500000US72093,72093,Puerto Rico - Maricao Municipio,Maricao Municipio,6276,5665,-611,-9.7,77,77,5,40
+0400000US72,72,Puerto Rico,0500000US72095,72095,Puerto Rico - Maunabo Municipio,Maunabo Municipio,12243,10808,-1435,-11.7,74,74,15,56
+0400000US72,72,Puerto Rico,0500000US72097,72097,Puerto Rico - Mayagüez Municipio,Mayagüez Municipio,89080,75525,-13555,-15.2,9,9,74,73
+0400000US72,72,Puerto Rico,0500000US72099,72099,Puerto Rico - Moca Municipio,Moca Municipio,40109,36328,-3781,-9.4,32,34,50,39
+0400000US72,72,Puerto Rico,0500000US72101,72101,Puerto Rico - Morovis Municipio,Morovis Municipio,32610,31092,-1518,-4.7,42,41,20,13
+0400000US72,72,Puerto Rico,0500000US72103,72103,Puerto Rico - Naguabo Municipio,Naguabo Municipio,26720,26177,-543,-2.0,51,47,3,3
+0400000US72,72,Puerto Rico,0500000US72105,72105,Puerto Rico - Naranjito Municipio,Naranjito Municipio,30402,28306,-2096,-6.9,45,44,29,18
+0400000US72,72,Puerto Rico,0500000US72107,72107,Puerto Rico - Orocovis Municipio,Orocovis Municipio,23423,21109,-2314,-9.9,59,59,34,44
+0400000US72,72,Puerto Rico,0500000US72109,72109,Puerto Rico - Patillas Municipio,Patillas Municipio,19259,17004,-2255,-11.7,67,66,33,55
+0400000US72,72,Puerto Rico,0500000US72111,72111,Puerto Rico - Peñuelas Municipio,Peñuelas Municipio,24282,20447,-3835,-15.8,58,60,51,77
+0400000US72,72,Puerto Rico,0500000US72113,72113,Puerto Rico - Ponce Municipio,Ponce Municipio,166327,140859,-25468,-15.3,4,4,76,74
+0400000US72,72,Puerto Rico,0500000US72115,72115,Puerto Rico - Quebradillas Municipio,Quebradillas Municipio,25919,23734,-2185,-8.4,53,53,31,27
+0400000US72,72,Puerto Rico,0500000US72117,72117,Puerto Rico - Rincón Municipio,Rincón Municipio,15200,14128,-1072,-7.1,71,71,10,20
+0400000US72,72,Puerto Rico,0500000US72119,72119,Puerto Rico - Río Grande Municipio,Río Grande Municipio,54319,50128,-4191,-7.7,15,15,57,24
+0400000US72,72,Puerto Rico,0500000US72121,72121,Puerto Rico - Sabana Grande Municipio,Sabana Grande Municipio,25361,22690,-2671,-10.5,56,56,36,45
+0400000US72,72,Puerto Rico,0500000US72123,72123,Puerto Rico - Salinas Municipio,Salinas Municipio,31078,28216,-2862,-9.2,43,45,40,36
+0400000US72,72,Puerto Rico,0500000US72125,72125,Puerto Rico - San Germán Municipio,San Germán Municipio,35691,31654,-4037,-11.3,39,39,53,51
+0400000US72,72,Puerto Rico,0500000US72127,72127,Puerto Rico - San Juan Municipio,San Juan Municipio,395484,337288,-58196,-14.7,1,1,78,69
+0400000US72,72,Puerto Rico,0500000US72129,72129,Puerto Rico - San Lorenzo Municipio,San Lorenzo Municipio,41036,37379,-3657,-8.9,29,31,46,33
+0400000US72,72,Puerto Rico,0500000US72131,72131,Puerto Rico - San Sebastián Municipio,San Sebastián Municipio,42430,37306,-5124,-12.1,25,32,63,57
+0400000US72,72,Puerto Rico,0500000US72133,72133,Puerto Rico - Santa Isabel Municipio,Santa Isabel Municipio,23274,21863,-1411,-6.1,60,58,14,16
+0400000US72,72,Puerto Rico,0500000US72135,72135,Puerto Rico - Toa Alta Municipio,Toa Alta Municipio,74070,73217,-853,-1.2,11,10,7,2
+0400000US72,72,Puerto Rico,0500000US72137,72137,Puerto Rico - Toa Baja Municipio,Toa Baja Municipio,89616,78092,-11524,-12.9,8,8,72,62
+0400000US72,72,Puerto Rico,0500000US72139,72139,Puerto Rico - Trujillo Alto Municipio,Trujillo Alto Municipio,74850,66675,-8175,-10.9,10,11,69,49
+0400000US72,72,Puerto Rico,0500000US72141,72141,Puerto Rico - Utuado Municipio,Utuado Municipio,33149,28791,-4358,-13.1,41,42,60,63
+0400000US72,72,Puerto Rico,0500000US72143,72143,Puerto Rico - Vega Alta Municipio,Vega Alta Municipio,39951,37566,-2385,-6.0,33,30,35,15
+0400000US72,72,Puerto Rico,0500000US72145,72145,Puerto Rico - Vega Baja Municipio,Vega Baja Municipio,59662,52436,-7226,-12.1,13,14,67,58
+0400000US72,72,Puerto Rico,0500000US72147,72147,Puerto Rico - Vieques Municipio,Vieques Municipio,9301,8669,-632,-6.8,76,75,6,17
+0400000US72,72,Puerto Rico,0500000US72149,72149,Puerto Rico - Villalba Municipio,Villalba Municipio,26073,22528,-3545,-13.6,52,57,45,65
+0400000US72,72,Puerto Rico,0500000US72151,72151,Puerto Rico - Yabucoa Municipio,Yabucoa Municipio,37941,33629,-4312,-11.4,36,37,58,53
+0400000US72,72,Puerto Rico,0500000US72153,72153,Puerto Rico - Yauco Municipio,Yauco Municipio,41947,35635,-6312,-15.0,28,35,66,72
